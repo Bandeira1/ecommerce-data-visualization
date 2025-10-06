@@ -1,4 +1,4 @@
-# 🛒 E-commerce Data Visualization
+#  E-commerce Data Visualization
 
 Análise exploratória e visualização de dados de um dataset de e-commerce, utilizando **Python**, **Pandas**, **Matplotlib** e **Seaborn**.
 
@@ -6,7 +6,7 @@ O objetivo do projeto é compreender padrões de comportamento em produtos vendi
 
 ---
 
-## 📊 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3.11+**
 - **Pandas** – manipulação e limpeza de dados  
@@ -16,7 +16,7 @@ O objetivo do projeto é compreender padrões de comportamento em produtos vendi
 
 ---
 
-## 🧹 Etapas do Projeto
+##  Etapas do Projeto
 
 1. **Importação e limpeza dos dados**
    - Conversão de colunas numéricas
@@ -39,7 +39,7 @@ O objetivo do projeto é compreender padrões de comportamento em produtos vendi
 
 ---
 
-## 📈 Exemplo de Insights
+##  Exemplo de Insights
 
 - Produtos **masculinos** representam a maior parte do catálogo analisado.  
 - Há uma **correlação moderada** entre **preço** e **nota média**.  
@@ -47,7 +47,7 @@ O objetivo do projeto é compreender padrões de comportamento em produtos vendi
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento, foram reforçados conceitos de:
 - Limpeza e padronização de dados no Pandas  
@@ -56,7 +56,7 @@ Durante o desenvolvimento, foram reforçados conceitos de:
 
 ---
 
-## 🚀 Execução
+##  Execução
 
 1. Clone o repositório:
    ```bash
